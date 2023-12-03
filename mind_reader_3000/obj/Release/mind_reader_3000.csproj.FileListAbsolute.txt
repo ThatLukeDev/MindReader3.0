@@ -1,0 +1,11 @@
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\bin\Release\mind_reader_3000.exe.config
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\bin\Release\mind_reader_3000.exe
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\bin\Release\mind_reader_3000.pdb
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.csproj.AssemblyReference.cache
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.Form1.resources
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.Form2.resources
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.Properties.Resources.resources
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.csproj.GenerateResource.cache
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.csproj.CoreCompileInputs.cache
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.exe
+C:\Users\luke\source\repos\mind_reader_3000\mind_reader_3000\obj\Release\mind_reader_3000.pdb
